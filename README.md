@@ -1,4 +1,4 @@
-# OpenAI ChatBot
+# ChatBot-GPT
 
 Welcome to the OpenAI Dialogue Bot initiative. This dialogue bot is developed using Python and OpenAI's model. It enables users to engage and resolve their inquiries in a conversational style. The user interface of the dialogue bot is constructed using the pqd6 library.
 
